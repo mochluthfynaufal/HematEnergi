@@ -1,0 +1,94 @@
+{
+    "meta": {
+        "sumber": "DATA CONTOH (dummy). Ganti dengan data angket/observasi asli saat sudah diberikan."
+    },
+    "kebiasaan": {
+        "labels": [
+            "Matikan lampu saat keluar ruangan",
+            "Cabut charger setelah penuh",
+            "Matikan AC/kipas saat kosong",
+            "Manfaatkan cahaya alami",
+            "Matikan komputer/proyektor"
+        ],
+        "series": {
+            "Semua": [
+                48,
+                35,
+                41,
+                62,
+                38
+            ],
+            "Siswa": [
+                42,
+                31,
+                36,
+                58,
+                33
+            ],
+            "Guru": [
+                57,
+                40,
+                49,
+                66,
+                45
+            ],
+            "Staf": [
+                55,
+                43,
+                50,
+                70,
+                47
+            ]
+        }
+    },
+    "pemahaman": {
+        "labels": [
+            "Paham",
+            "Cukup",
+            "Kurang"
+        ],
+        "series": {
+            "Semua": [
+                34,
+                46,
+                20
+            ],
+            "Siswa": [
+                28,
+                48,
+                24
+            ],
+            "Guru": [
+                44,
+                42,
+                14
+            ],
+            "Staf": [
+                40,
+                44,
+                16
+            ]
+        }
+    },
+    "ruang": {
+        "labels": [
+            "Kelas",
+            "Laboratorium",
+            "Perpustakaan",
+            "Ruang guru",
+            "Toilet"
+        ],
+        "values": [
+            37,
+            52,
+            28,
+            31,
+            44
+        ]
+    },
+    "catatan": {
+        "K": "Contoh: cahaya alami paling sering dimanfaatkan, tapi kebiasaan mencabut charger masih rendah. Ganti kalimat ini sesuai temuan data asli.",
+        "P": "Contoh: hampir seperlima responden masih kurang paham cara menghemat energi. Sesuaikan dengan hasil analisis.",
+        "R": "Contoh: laboratorium paling sering ditinggalkan dengan lampu menyala. Sesuaikan dengan hasil observasi."
+    }
+}
